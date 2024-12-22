@@ -9,6 +9,7 @@ Audio feature extraction using librosa (e.g., MFCCs, chroma, mel-spectrograms).
 Multi-class emotion classification using deep learning.
 Pre-trained and customizable models for better accuracy.
 Clear and user-friendly pipeline.
+<br>
 
 Technologies Used
 Python
